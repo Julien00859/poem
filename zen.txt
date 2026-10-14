@@ -1,6 +1,7 @@
 Beautiful is better than ugly.
 Simple is better than complexe.
 Complex is better than complicated.
+In the face of ambiguity, refuse the temptation to guess.
 Readability counts.
 
 The Zen of Python, by Tim Peters
